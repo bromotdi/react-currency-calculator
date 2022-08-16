@@ -1,0 +1,25 @@
+.App {
+  background-color: #f3d370;
+  width: 60%;
+  align: center;
+  margin: 2em auto;
+  margin-bottom: 0px;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+header {
+  padding: 1px;
+  text-align: center;
+  border-bottom: 2px solid #d45c2a;
+}
+
+.img {
+  width: 100%;
+  max-width: 1150px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+
